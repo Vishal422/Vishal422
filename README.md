@@ -1,12 +1,15 @@
-- 👋 Hi, I’m  Vishal
-- 👀 I’m interested in Creativity for artificial intelligence
-- 🌱 I’m currently learning AI ...
-- 💞️ I’m looking to collaborate on New Invative in Data Science...
-- 📫 How to reach me wagarajvishal@gmail.com...
 
-<!---
-Vishal422/Vishal422 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
-I have completed my MSc 2022 (focused on Computer Science) from Gulbarga University Gulbarga Karnataka. For the last 2 years, I am exploring various fields of Data Science, I'm Actively looking for full-time opportunities as Machine Learning Engineer And Python Developer I have 2 years of coding experience in Python 3.9 I have experience working on different projects where I built machine learning pipelines starting from feature engineering, feature selection, model building and evaluation and model deployment. Apart from Academics I love playing chess, Cricket, and Football.
+👋 Hello there! I'm Vishal, a passionate technologist with a knack for innovation and problem-solving.
+
+🧠 With 2 years of experience in machine learning, I've honed my skills as an experienced freelancer, specializing in helping businesses seize organic growth opportunities. With 16+ happy clients under my belt, I've helped businesses stand out online and achieve their goals.
+
+🌱 Currently, I'm delving deeper into AI, exploring new avenues to infuse creativity and intelligence into systems.
+
+💻 Alongside machine learning, I also bring expertise in web development and website design, crafting seamless digital experiences from concept to execution.
+
+🚀 Additionally, I leverage my skills in social media marketing to amplify online presence and drive engagement.
+
+💡 I'm eager to collaborate on innovative data science projects and contribute to cutting-edge developments in AI and technology.
+
+📫 Let's connect and explore possibilities together! Drop me a line at wagarajvishal@gmail.com.
 
